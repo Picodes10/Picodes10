@@ -8,4 +8,3 @@
 - 📫 How to reach me: ...[email id](biswalsushree000@gmail.com)
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I am a weeb.
--->
