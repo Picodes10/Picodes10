@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on ...JavaScript
 - 🤔 I’m looking for help with ...Javascript
 - 💬 Ask me about ...HTML/ CSS 
-- 📫 How to reach me: ...[email id](biswalsushree000@gmail.com)
+- 📫 How to reach me: ...[Twitter](https://twitter.com/picodes1)
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I am a weeb.
