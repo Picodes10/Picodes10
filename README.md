@@ -5,4 +5,3 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/picodes1)
 - 😄 Pronouns: she/her
 - ⚡ I love books, physics and playing vedio games.
-- 
