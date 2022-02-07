@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on HTML, CSS and JavaScript.
 - 📫 How to reach me: [Twitter](https://twitter.com/picodes1)
 - 😄 Pronouns: she/her
-- ⚡ I love books, physics and playing vedio games.
+- ⚡ I love books, physics and watching anime.
