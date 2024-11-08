@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sushree</h1>
-**`Full-stack Developer`**
 
 I'm a Fullstack Developer dedicated to crafting scalable, user-centric web and mobile applications. I embrace the full development lifecycle, from ideation to deployment, and am passionate about leveraging the latest technologies to create impactful solutions. With a commitment to continuous learning, I thrive on solving complex challenges and collaborating with others to deliver innovative results. My focus is on enhancing user experience and optimizing application performance, ensuring that each project not only meets user needs but also drives success in the real world.
 
